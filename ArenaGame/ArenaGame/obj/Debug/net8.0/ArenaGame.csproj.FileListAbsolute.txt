@@ -1,0 +1,22 @@
+C:\Projects\Lectures\2023-2024\OOP STD\ArenaGame\ArenaGame\bin\Debug\net8.0\ArenaGame.deps.json
+C:\Projects\Lectures\2023-2024\OOP STD\ArenaGame\ArenaGame\bin\Debug\net8.0\ArenaGame.dll
+C:\Projects\Lectures\2023-2024\OOP STD\ArenaGame\ArenaGame\bin\Debug\net8.0\ArenaGame.pdb
+C:\Projects\Lectures\2023-2024\OOP STD\ArenaGame\ArenaGame\obj\Debug\net8.0\ArenaGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Lectures\2023-2024\OOP STD\ArenaGame\ArenaGame\obj\Debug\net8.0\ArenaGame.AssemblyInfoInputs.cache
+C:\Projects\Lectures\2023-2024\OOP STD\ArenaGame\ArenaGame\obj\Debug\net8.0\ArenaGame.AssemblyInfo.cs
+C:\Projects\Lectures\2023-2024\OOP STD\ArenaGame\ArenaGame\obj\Debug\net8.0\ArenaGame.csproj.CoreCompileInputs.cache
+C:\Projects\Lectures\2023-2024\OOP STD\ArenaGame\ArenaGame\obj\Debug\net8.0\ArenaGame.dll
+C:\Projects\Lectures\2023-2024\OOP STD\ArenaGame\ArenaGame\obj\Debug\net8.0\refint\ArenaGame.dll
+C:\Projects\Lectures\2023-2024\OOP STD\ArenaGame\ArenaGame\obj\Debug\net8.0\ArenaGame.pdb
+C:\Projects\Lectures\2023-2024\OOP STD\ArenaGame\ArenaGame\obj\Debug\net8.0\ref\ArenaGame.dll
+D:\University\Intro to praograming\ArenaGame\ArenaGame\bin\Debug\net8.0\ArenaGame.deps.json
+D:\University\Intro to praograming\ArenaGame\ArenaGame\bin\Debug\net8.0\ArenaGame.dll
+D:\University\Intro to praograming\ArenaGame\ArenaGame\bin\Debug\net8.0\ArenaGame.pdb
+D:\University\Intro to praograming\ArenaGame\ArenaGame\obj\Debug\net8.0\ArenaGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\Intro to praograming\ArenaGame\ArenaGame\obj\Debug\net8.0\ArenaGame.AssemblyInfoInputs.cache
+D:\University\Intro to praograming\ArenaGame\ArenaGame\obj\Debug\net8.0\ArenaGame.AssemblyInfo.cs
+D:\University\Intro to praograming\ArenaGame\ArenaGame\obj\Debug\net8.0\ArenaGame.csproj.CoreCompileInputs.cache
+D:\University\Intro to praograming\ArenaGame\ArenaGame\obj\Debug\net8.0\ArenaGame.dll
+D:\University\Intro to praograming\ArenaGame\ArenaGame\obj\Debug\net8.0\refint\ArenaGame.dll
+D:\University\Intro to praograming\ArenaGame\ArenaGame\obj\Debug\net8.0\ArenaGame.pdb
+D:\University\Intro to praograming\ArenaGame\ArenaGame\obj\Debug\net8.0\ref\ArenaGame.dll
